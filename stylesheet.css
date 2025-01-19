@@ -460,6 +460,14 @@ footer-icon a:hover{
     display: none;
     cursor: pointer;
 }
+
+.text{
+    font-size: 5rem;
+    font-weight: 700;
+    line-height: 1.3;
+    margin-bottom: 3rem;
+}
+
 /* Media Query for Medium Devices (Tablets) */
 @media (max-width: 1024px) {
     html {
@@ -522,7 +530,7 @@ footer-icon a:hover{
         max-width: 200px;
     }
 }
-
+  
 
 
 /* Media Query for Mobile Devices */
@@ -563,6 +571,10 @@ footer-icon a:hover{
 
     .home-content h1 {
         font-size: 4.5rem;
+    }
+
+    .text{
+        font-size: 4rem;
     }
 
     .home-content .btn {
