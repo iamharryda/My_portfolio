@@ -677,7 +677,7 @@ footer-icon a:hover{
     margin-top: 24px;
 }
 .skill {
-    padding: 4rem 2rem; /* Add more padding for spaciousness */
+    padding: 8rem 2rem; /* Add more padding for spaciousness */
     background-color: #262B40; /* Light background for better visibility */
 }
 
@@ -739,7 +739,7 @@ footer-icon a:hover{
 .contact {
     margin-bottom: 3rem;
     background: var(--snd-bf-color);
-    padding: 3rem;
+    padding: 9rem;
     border-radius: 1rem;
     
 }
